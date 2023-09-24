@@ -1,6 +1,6 @@
-# MonaYin
+# Hi! My name is Mona(Yimeng) Yin 👋
 
-👋 Hey there! I'm Mona, a full stack Software Engineer based in Seattle.
+🌍  I am a full stack developer based in Seattle, US.
 
 ## 📘 Quick Facts
 
