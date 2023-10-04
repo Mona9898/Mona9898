@@ -1,4 +1,4 @@
-# Hi! My name is Mona(Yimeng) Yin 👋
+# Hi! My name is Mona, Yimeng Yin 👋
 
 🌍  I am a full stack developer based in Seattle, US.
 
