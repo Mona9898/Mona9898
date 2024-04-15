@@ -1,11 +1,11 @@
 # Hi! My name is Mona, Yimeng Yin 👋
 
-🌍  I am a full stack developer based in Seattle, US.
+🌍  I am a software developer based in Seattle, US.
 
 ## 📘 Quick Facts
 
-- 🎓 Currently CS Graduate from Northeastern University
-- 🌍 Love coding, traveling, and speaking multiple languages
+- 🎓 Currently CS Graduate student of Northeastern University
+- 🌍 Love coding and gaming
 
 ## 🛠 Skills
 
